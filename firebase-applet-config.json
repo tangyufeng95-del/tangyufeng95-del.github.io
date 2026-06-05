@@ -1,9 +1,8 @@
-{
-  "projectId": "decent-zucchini-kr4g1",
-  "appId": "1:107731876265:web:6e490901ad50f359e1ecb8",
-  "apiKey": "AIzaSyAO3v-EmurfZI4rpEVuAHEi9QPe8hqz-Tg",
-  "authDomain": "decent-zucchini-kr4g1.firebaseapp.com",
-  "storageBucket": "decent-zucchini-kr4g1.firebasestorage.app",
-  "messagingSenderId": "107731876265",
-  "measurementId": ""
-}
+const firebaseConfig = {
+  apiKey: "AIzaSyBHFC8rwSVmwJi4HLo7OF1kDjwoIQpVy_Y",
+  authDomain: "game-7fe81.firebaseapp.com",
+  projectId: "game-7fe81",
+  storageBucket: "game-7fe81.firebasestorage.app",
+  messagingSenderId: "885452755105",
+  appId: "1:885452755105:web:234905dd069a33693660e0"
+};

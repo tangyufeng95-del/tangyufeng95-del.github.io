@@ -1,6 +1,0 @@
-{
-  "name": "Legendary's Hub",
-  "description": "牧傳奇的客製化遊戲整合系統，提供遊戲管理、探索、朋友活動動態、整合設定與卡片客製化等功能。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
